@@ -16,7 +16,7 @@
 		<universal-tween-engine.version>6.3.3</universal-tween-engine.version>
 		<icu4j.version>64.2</icu4j.version>
 		<swt.version>3.116.100</swt.version>
-		<android.version>4.1.1.4</android.version>
+		<android.version>29.0.0</android.version>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
