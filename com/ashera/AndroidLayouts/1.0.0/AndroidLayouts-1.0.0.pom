@@ -94,16 +94,19 @@
 		<dependency>
 			<groupId>androidx.core</groupId>
 			<artifactId>core-jar</artifactId>
+			<scope>provided</scope>
 		</dependency>
 
 		<dependency>
 			<groupId>org.apache.cordova</groupId>
 			<artifactId>framework-jar</artifactId>
+			<scope>provided</scope>
 		</dependency>
 
 		<dependency>
 			<groupId>androidx.appcompat</groupId>
 			<artifactId>appcompat-jar</artifactId>
+			<scope>provided</scope>
 		</dependency>
 	</dependencies>
 
