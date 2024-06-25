@@ -64,19 +64,10 @@
 			<groupId>com.ashera</groupId>
 			<artifactId>cssparser</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>com.ashera</groupId>
-			<artifactId>AndroidConverterPlugin </artifactId>
-			<version>${project.version}</version>
-		</dependency>
+
 		<dependency>
 			<groupId>com.ashera</groupId>
 			<artifactId>AndroidCorePlugin</artifactId>
-			<version>${project.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>com.ashera</groupId>
-			<artifactId>AndroidJsonAdapter</artifactId>
 			<version>${project.version}</version>
 		</dependency>
 
